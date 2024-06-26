@@ -1,4 +1,4 @@
-# tryy
+# Automated Routine Scheduler
 
 A new Flutter project.
 
